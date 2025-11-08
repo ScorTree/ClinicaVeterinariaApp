@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:gravity="center_vertical"
+    android:background="@color/white">
+
+    <ImageView
+        android:id="@+id/header_logo"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:src="@android:drawable/sym_def_app_icon"
+        android:contentDescription="@string/logo_desc"
+        android:tint="@color/black"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:id="@+id/header_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/clinic_name"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_marginTop="8dp"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:id="@+id/header_sub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/header_user"
+        android:textSize="13sp"
+        android:textColor="#555555"
+        android:layout_marginTop="4dp"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>

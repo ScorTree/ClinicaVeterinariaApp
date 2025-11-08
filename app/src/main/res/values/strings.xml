@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clínica Veterinaria</string>
+    <string name="app_title">Clínica Veterinaria</string>
+    <string name="clinic_name">🐾 Clínica Veterinaria</string>
+    <string name="header_user">Usuario: Estudiante</string>
+    <string name="logo_desc">Logo de la clínica</string>
+
+    <!-- Menu -->
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_propietarios">Propietarios</string>
+    <string name="menu_pacientes">Pacientes</string>
+    <string name="menu_veterinarios">Veterinarios</string>
+    <string name="menu_consultas">Consultas</string>
+    <string name="menu_estudios">Estudios clínicos</string>
+    <string name="menu_hospitalizacion">Hospitalización</string>
+    <string name="menu_cirugias">Cirugías</string>
+    <string name="menu_farmacia">Farmacia / Productos</string>
+    <string name="menu_proveedores">Proveedores</string>
+    <string name="menu_pagos">Pagos</string>
+    <string name="menu_emergencias">Emergencias</string>
+    <string name="menu_visitas">Visitas periódicas</string>
+    <string name="menu_auditorias">Auditorías</string>
+
+    <!-- Dashboard title -->
+    <string name="dashboard_title">Panel Principal</string>
+
+    <!-- Placeholders & labels -->
+    <string name="label_nombre">Nombre completo</string>
+    <string name="label_telefono">Teléfono</string>
+    <string name="label_direccion">Dirección</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_agregar">Agregar</string>
+
+    <string name="placeholder_lista_pacientes">Aquí aparecerá la lista de pacientes (placeholder).</string>
+    <string name="placeholder_consultas">Aquí aparecerán las consultas (placeholder).</string>
+    <string name="placeholder_estudios">Aquí aparecerán los estudios clínicos (placeholder).</string>
+    <string name="placeholder_hospitalizacion">Hospitalización (placeholder).</string>
+    <string name="placeholder_cirugias">Cirugías (placeholder).</string>
+    <string name="placeholder_farmacia">Farmacia y productos (placeholder).</string>
+    <string name="placeholder_proveedores">Proveedores (placeholder).</string>
+    <string name="placeholder_pagos">Pagos (placeholder).</string>
+    <string name="placeholder_emergencias">Emergencias (placeholder).</string>
+    <string name="placeholder_veterinarios">Veterinarios (placeholder).</string>
+    <string name="placeholder_visitas">Visitas periódicas (placeholder).</string>
+    <string name="placeholder_auditorias">Auditorías (placeholder).</string>
+
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+
+    <string name="titulo_propietarios">Propietarios Registrados</string>
+    <string name="propietario_nombre">👤 Nombre: Juan Pérez</string>
+    <string name="propietario_telefono">📞 Teléfono: 55 1234 5678</string>
+    <string name="propietario_direccion">🏠 Dirección: Av. Central #45</string>
+    <string name="agregar_propietario">Agregar nuevo propietario</string>
+
+    <string name="titulo_pacientes">Gestión de Pacientes</string>
+    <string name="paciente_nombre">🐶 Nombre: Max</string>
+    <string name="paciente_especie">🦴 Especie: Canino</string>
+    <string name="paciente_edad">🎂 Edad: 3 años</string>
+    <string name="paciente_propietario">👤 Propietario: Juan Pérez</string>
+    <string name="agregar_paciente">Registrar nuevo paciente</string>
+
+    <string name="titulo_veterinarios">Veterinarios Registrados</string>
+    <string name="vet_nombre">👨‍⚕️ Nombre: Dr. Luis Hernández</string>
+    <string name="vet_especialidad">🩺 Especialidad: Cirugía y Ortopedia</string>
+    <string name="vet_contacto">📞 Teléfono: 55 6789 4321</string>
+    <string name="agregar_veterinario">Agregar nuevo veterinario</string>
+
+    <string name="titulo_consultas">Consultas Registradas</string>
+    <string name="consulta_paciente">🐶 Paciente: Max (Perro)</string>
+    <string name="consulta_veterinario">👨‍⚕️ Veterinario: Dr. Luis Hernández</string>
+    <string name="consulta_fecha">📅 Fecha: 01/11/2025</string>
+    <string name="consulta_motivo">🩺 Motivo: Chequeo general</string>
+    <string name="agregar_consulta">Agregar nueva consulta</string>
+
+    <string name="titulo_estudios">Estudios Clínicos</string>
+    <string name="estudio_nombre">🧪 Estudio: Análisis de Sangre</string>
+    <string name="estudio_paciente">🐶 Paciente: Max (Perro)</string>
+    <string name="estudio_veterinario">👨‍⚕️ Veterinario: Dr. Luis Hernández</string>
+    <string name="estudio_fecha">📅 Fecha: 31/10/2025</string>
+    <string name="estudio_resultado">📋 Resultado: Nivel de glóbulos normales</string>
+    <string name="agregar_estudio">Agregar nuevo estudio clínico</string>
+
+    <string name="titulo_hospitalizacion">Pacientes en Hospitalización</string>
+    <string name="hosp_nombre">🐾 Paciente: Luna</string>
+    <string name="hosp_especie">🐶 Especie: Perro</string>
+    <string name="hosp_veterinario">👨‍⚕️ Veterinario: Dra. Sofía Morales</string>
+    <string name="hosp_fecha">📅 Fecha de ingreso: 30/10/2025</string>
+    <string name="hosp_estado">💊 Estado: En observación</string>
+    <string name="agregar_hospitalizacion">Agregar nuevo registro de hospitalización</string>
+
+    <string name="titulo_cirugias">Cirugías Programadas</string>
+    <string name="cirugia_nombre">🐾 Paciente: Rocky</string>
+    <string name="cirugia_tipo">🔪 Tipo: Esterilización</string>
+    <string name="cirugia_veterinario">👨‍⚕️ Veterinario: Dr. Luis García</string>
+    <string name="cirugia_fecha">📅 Fecha: 02/11/2025</string>
+    <string name="cirugia_estado">✅ Estado: Completada</string>
+    <string name="agregar_cirugia">Agregar nueva cirugía</string>
+
+    <string name="titulo_farmacia">Farmacia / Productos</string>
+    <string name="producto_nombre">💊 Producto: Desparasitante Canino</string>
+    <string name="producto_precio">💰 Precio: $120.00 MXN</string>
+    <string name="producto_stock">📦 Stock disponible: 25 unidades</string>
+    <string name="img_producto_desc">Imagen del producto</string>
+    <string name="agregar_producto">Agregar nuevo producto</string>
+
+    <string name="titulo_proveedores">Proveedores</string>
+    <string name="proveedor_nombre">🏢 Nombre: Distribuidora VetSalud</string>
+    <string name="proveedor_producto">📦 Producto: Vacunas y medicamentos</string>
+    <string name="proveedor_contacto">📞 Teléfono: 55 7894 3321</string>
+    <string name="img_proveedor_desc">Imagen del proveedor</string>
+    <string name="agregar_proveedor">Agregar nuevo proveedor</string>
+
+    <string name="titulo_pagos">Pagos</string>
+    <string name="pago_cliente">👤 Cliente: Juan Pérez</string>
+    <string name="pago_servicio">💉 Servicio: Vacunación</string>
+    <string name="pago_monto">💵 Monto: $350.00 MXN</string>
+    <string name="pago_fecha">📅 Fecha: 02/11/2025</string>
+    <string name="agregar_pago">Agregar nuevo pago</string>
+
+    <string name="titulo_emergencias">Emergencias</string>
+    <string name="emergencia_paciente">🐶 Paciente: Max</string>
+    <string name="emergencia_tipo">🚨 Tipo: Fractura en pata trasera</string>
+    <string name="emergencia_fecha">📅 Fecha: 02/11/2025</string>
+    <string name="agregar_emergencia">Registrar nueva emergencia</string>
+
+    <string name="titulo_visitas">Visitas Periódicas</string>
+    <string name="visita_paciente">🐕 Paciente: Luna</string>
+    <string name="visita_motivo">🩺 Motivo: Control de vacunas</string>
+    <string name="visita_fecha">📅 Fecha: 15/10/2025</string>
+    <string name="agregar_visita">Registrar nueva visita</string>
+
+    <string name="titulo_auditorias">Auditorías</string>
+    <string name="auditoria_fecha">📅 Fecha: 20/10/2025</string>
+    <string name="auditoria_responsable">👤 Responsable: Dra. Laura Méndez</string>
+    <string name="auditoria_resultado">✅ Resultado: Todo en orden</string>
+    <string name="agregar_auditoria">Registrar nueva auditoría</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_dashboard" android:title="@string/menu_dashboard" />
+        <item android:id="@+id/nav_propietarios" android:title="@string/menu_propietarios" />
+        <item android:id="@+id/nav_pacientes" android:title="@string/menu_pacientes" />
+        <item android:id="@+id/nav_veterinarios" android:title="@string/menu_veterinarios" />
+        <item android:id="@+id/nav_consultas" android:title="@string/menu_consultas" />
+        <item android:id="@+id/nav_estudios" android:title="@string/menu_estudios" />
+        <item android:id="@+id/nav_hospitalizacion" android:title="@string/menu_hospitalizacion" />
+        <item android:id="@+id/nav_cirugias" android:title="@string/menu_cirugias" />
+        <item android:id="@+id/nav_farmacia" android:title="@string/menu_farmacia" />
+        <item android:id="@+id/nav_proveedores" android:title="@string/menu_proveedores" />
+        <item android:id="@+id/nav_pagos" android:title="@string/menu_pagos" />
+        <item android:id="@+id/nav_emergencias" android:title="@string/menu_emergencias" />
+        <item android:id="@+id/nav_visitas" android:title="@string/menu_visitas" />
+        <item android:id="@+id/nav_auditorias" android:title="@string/menu_auditorias" />
+    </group>
+</menu>
